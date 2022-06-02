@@ -1,0 +1,236 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Reference Book</title>
+<link href="styles/style.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Tiro+Devanagari+Sanskrit:ital@1&display=swap" rel="stylesheet">
+<script>
+</script>
+<style>
+
+</style>
+</head>
+<body>
+<h1>This is Book for reference !!!</h1>
+<hr><hr>
+<h2 style="font-family:courier;">Book Message</h2>
+<p class="editor-note">Book are <strong>Best Freinds</strong> of Human Being</p><br/>
+
+<p>Lets Look into the Book deeply</p>
+<em>The below pic shows typical image how books look like</em>
+<img src = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/
+2wCEAAkGBxMTEhUSExMVFRUXFRUXFRcVGBUVFxcVFRUXFxUXFRYYHSggGBolHRU
+XITEhJSkrLi4uFx80OTQtOCgtLisBCgoKDg0OGhAQGyslHx0tLS0tLS0tLS0tLS
+0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIALEBH
+AMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAAEAQIDBQYABwj/xABIEAAB
+AwIBBwgGBwYGAQUAAAABAAIDBBEhBQYSMUFRkTJhcYGhscHREyJCUpLwBxVDYnK
+CshQzU6LC4RYjNFSD0vElRHOTs//EABkBAAMBAQEAAAAAAAAAAAAAAAECAwQABf
+/EADURAAIBAgMECAYBBAMAAAAAAAABAgMREiExBBNBsTJRYXGBkaHRFCJCweHwB
+SNSkqJygrL/2gAMAwEAAhEDEQA/APYHBDSFSPeoJV5MnkaYIaCmPckLrIdz1Fyy
+NMY5hAcnIZrkukgpD4Se6cChi9PY9G4rgEgpC5Rhya56e4uEl0kmmoPSJhelchs
+BO6RRvlUL3qBz0jkVhTI6qZA/tNiurZedAzej991/w/3U93KWaPQpUVbNFx9ZNs
+qLKNUDeyGljGyXi0oZ9PukaepyE6E2aqWzRg7/AGZBLKo30hcBbpRBpfvNPX/ZX
+FBNGB627ZigqU1ojTUm4q6Vympqct1ofKcmCu8puaeRis/U0zz7JSRpTx3kjLJO
+avYzdRF6xAUbYSMbhXFXSOBtonnwKBkYRrB6wvQi7ozu6LChypojRcjhVMdtWdI
+2JG3AslcEK4p6FrWVTBgMVXxUWn63YoRiVf0cfqBF/KgdEqnRgYWULogdisqyPF
+QQxXcEFIriyK2aitieCOyRTC97YIishwROTWWahKV0c5/KW8crWjUUsuUjaw1KG
+Ft8FY0OS9IKCstTP8qzZTz04cLkYqokhINlvPqjYg6nInrLXCokjVS2mJ6Q5Czy
+gKWd6raoqNWdtDwqMLvMSWoTA9Bl6lY5ZVJs37vCgvSXaaha9OJT4gYR4Kka5QN
+KdpJ4yyEaCC9ML1CXJA5dKQFAmJQ89W1us8MVDlCORzT6NzQQDg5pcCdmpwWcdL
+UjAiD4JPB6McPFlqdOLzky7mynsaOPkq+esedvUMEH6WfbHEej0jf6ioXST/wYz
+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
+51ZYbZMz7hU44uKNkcpxe+3iEz6zj99nEJQDuHZ5p+gebgF51jXkbB+Tox7EfAX
+TTk6LWQzgFauo2HVbifNDT0ltTNLocR2XQcGKpoCOT4icAz56lxyXHfDR7Ea2Rl
+sYiDus+/Gyb+0wEi4IO4nR6sdqGD9zDeXb6Agya3c1I7Jjdw6ifNWBhZuPxKMQg
+6mm33nkcBZLYKkzqCl0A7RwuRfbvUz3naAe/tQGUa9lOASdEPNtJxu241C+zWli
+ywCbax931u66vGnLAmk7dmf5M8q0FJqTV+3LmGNfvaR0YqCoDDtt88ykZWxH2h0
+au5dI5p29vmptFk+KM9XUYN7ELPVmTzuWxqoGn5I7lVVFGNhPYe/FBSsWTMlJSW
+2HtUQpengtLJTkbusW7VD6M7gegjxVsZzZRw0JJsSAimZOG65VqyIe6RxRUUTEk
+pnalZDksblZ02T27Wg9NkZFAN6Nhj61Bq5zkVhyFC/XGOoKF2asIxbpMO9rnDuW
+hEY2tHBPLBvI6/C6MXKOj9ScrS1V+8yrs3ZByaiT8xDhwN0PLkiqb7cb912gfps
+te6Ln4hNZGdw6r/AN1RbTVWjZCWyUJawXLkYiSiqNsDT+BxH6gUDPA72qeQdAa/
+uI7l6OYzu7j32TCwHWOw+CvHbaq1syEv46g9E14nls1PD7Q0fxMcPC3ahzk6F3J
+MR629y9Sko2H2R2BCz5Ehdyo2npaD2kKsdvfGPk/ck/45LoTa717WPNZMjNGOj1
+2Q01Cxuu45gTdb+szVhDXPiGg8AkFjnAYfdvY8EBHRN0/Suu+TAAnYOYah3q3xd
+O10jobLtCl08uy6MlBkKR4uDIwb3OPYFb0+RmM5TnPPOT2AK5lkubYf2UL23WWd
+eU+z98z1abnBdKX+T97A5wFmjZtJOoWFyegIWngLdZui5SAMShI7i9tpukQL3JX
+c6oc43XMf4v6mK5I3lUeWn6T2NGwm/Nqtfgr0V86I1X8jNkynaff+OTzUvoI/v/
+E/zWXjyzJ0/PQpPryT3fngp7tjXPZhlI/wZOfFijkrHHVDJxb4KE1HT2eaVtTv8
+Vnxh3fUKZCQQY5bHXiB3G6Bbkqmba1OBbUSGG3G6smSA7TxXPfH7ThwXJhBZ3MG
+8nsCljmI9iRwO1oHiU5z4Npb0YdyQ1LByXW6CAhkg5khkcfsn2/D3quraKmdfSh
+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" alt = "image of book" width="500" height="300">
+
+<p>Books has following advantages:</p>
+<ul>
+<li>Eco Friendly</li>
+<li>User Friendly</li>
+<li> Portable</li>
+</ul>
+<p>How is book made?</br></br>The steps are as follows:</p>
+<ol>
+<li> Initial Editing.</li>
+<li> Copyediting and Proofreading.</li>
+<li> Book Design and Layout.</li>
+<li> Typesetting.</li>
+<li> Another Proofreading.</li>
+<li> Printing and Binding.</li>
+<li> Shipping and Marketing.</li>
+</ol>
+
+<p>There are varios books available in market.</br>According to<a href = "https://reference.yourdictionary.com/books-literature/different-types-of-books.html">Types of Books</a>
+ one can decide to explore it's interests.</p>
+<p style="text-align:center;">A link to my <a href="http://www.google.com" title="The Google homepage" target="_blank">favorite website</a>.</p>
+<input type ="text" disabled>
+<input type ="text" >
+<a href=https://www.google.com/>favorite website</a>
+<a href='https://www.example.com'>A link to my example.</a>
+<!--<a href='https://www.example.com' title='Isn't this fun?'>A link to my example.</a> -->    <!--  error for isn't -->
+<a href='https://www.example.com' title='Isn&apos;t this fun?'>A link to my example.</a>
+<p title='John "ShotGun" Nelson'>hover</p>
+<p title="John 'ShotGun' Nelson">hover</p>
+<pre>
+  My Bonnie lies over the ocean.
+
+  My Bonnie lies over the sea.
+
+  My Bonnie lies over the ocean.
+
+  Oh, bring back my Bonnie to me.
+</pre>
+<input type="text">
+<input type="button">
+<input type="checkbox">
+
+</body>
+</html>
